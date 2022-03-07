@@ -1,0 +1,6 @@
+---
+# Versions
+FREETUBE_VERSION: 0.16.0
+
+# Files
+SSH_KEY_FILE: id_rsa
